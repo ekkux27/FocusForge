@@ -23,7 +23,7 @@ A minimal, dark-themed productivity dashboard designed to help students organize
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FocusForge.git
+git clone https://github.com/ekkux27/FocusForge.git
 ```
 
 ### 2. Open the project
